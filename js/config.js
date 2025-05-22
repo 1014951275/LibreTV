@@ -150,16 +150,6 @@ yutu: {
     name: '玉兔资源',
     adult: true
 },
-yutu: {
-    api: 'https://ckzy.me/api.php/provide/vod/?ac=list',
-    name: '苹果cmsV10',
-    adult: true
-},
- xingba: {
-    api: 'https://xingba111.com/api.php/provide/vod/?ac=list',
-    name: '杏吧',
-    adult: true
-},
     // 下面是资源失效率高的API源，不建议使用
     // subo: {
     //     api: 'https://subocaiji.com/api.php/provide/vod',
