@@ -150,6 +150,11 @@ yutu: {
     name: '玉兔资源',
     adult: true
 },
+suav: {
+    api: 'https://api.souavzy.vip/api.php/provide/vod/?ac=list',
+    name: 'suav',
+    adult: true
+},
     // 下面是资源失效率高的API源，不建议使用
     // subo: {
     //     api: 'https://subocaiji.com/api.php/provide/vod',
